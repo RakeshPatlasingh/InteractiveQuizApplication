@@ -16,9 +16,13 @@ An interactive, browser-based quiz application built using HTML, CSS, and JavaSc
 ##  Project Structure
 /InteractiveQuizApplication
 │
+
 ├── index.html → Main HTML page
+
 ├── style.css → Stylesheet for design
+
 ├── script.js → JavaScript for quiz logic
+
 └── README.md → This file
 
 ##  Live Demo
